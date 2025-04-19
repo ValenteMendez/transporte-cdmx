@@ -113,3 +113,6 @@ Para abordar estas preguntas, sería útil:
 3. Comparar la cobertura espacial de los diferentes sistemas
 4. Examinar detalladamente los datos de Concesionado vs Concesionado_Ruta
 5. Analizar la conectividad mediante técnicas de análisis de redes
+
+### Attributions
+Some icons downloaded from: <a href="https://www.flaticon.com/free-icons/" title="metro icons">Icons created by Freepik - Flaticon</a>
